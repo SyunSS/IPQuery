@@ -1,0 +1,20 @@
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Generated icons
+IPQuery.icns
+ipquery.ico
+ipquery_icon.png
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# WorkBuddy
+.workbuddy/
