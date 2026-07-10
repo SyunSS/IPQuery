@@ -19,7 +19,7 @@
 
 ## 界面预览
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png?v=2)
 
 ## 安装
 
